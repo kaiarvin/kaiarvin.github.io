@@ -8,7 +8,7 @@ permalink: /about/
 
 你好，我是程序员蜗牛凯。
 
-![微信二维码](https://https://github.com/kaiarvin/kaiarvin.github.io/blob/master/images/wechat.jpeg)
+![微信二维码](https://github.com/kaiarvin/kaiarvin.github.io/blob/master/images/wechat.jpeg?raw=true)
 
 ## 版权声明
 

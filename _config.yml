@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: 806d2b3d3da3bc9f8aac
+  clientSecret: 4db82a623f319315971c4e0c1d76159e408e7135
   repo: kaiarvin.github.io
   owner: kaiarvin
 
